@@ -1,5 +1,5 @@
 {
-  "name": "tsitem-tel",
+  "name": "@ts-node/cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
